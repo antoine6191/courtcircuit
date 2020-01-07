@@ -1,0 +1,13 @@
+h1{
+	font-family: berlin sans FB;
+	color: #af1e23;
+}
+.align-text-bottom{
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100%; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+  font-size: 45px;
+}
+}
